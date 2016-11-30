@@ -17,11 +17,13 @@ Simple app that consumes Angular Material 2 components. Built with the `angular-
 
 2- Create dir 'assets' manually in ./src/
 
-3- npm install
+3- run './node_modules/.bin/ngc -p ./src/' on root path
 
-4- npm start
+4- npm install
 
-5- go to http://localhost:4200
+5- npm start
+
+6- go to http://localhost:4200
 
 
 ----------
